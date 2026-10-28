@@ -1,0 +1,8 @@
+
+flask
+torch
+transformers
+peft
+soundfile
+numpy
+sentencepiece
